@@ -23,3 +23,5 @@ In the near future, we could also make a larger model which could manage massive
 -The model is costlier than a normal plastic dustbin.
 -Mixed waste cannot be classified efficiently upto a certain extent.
 -In order to classify the waste efficiently, the waste should be scanned in ample lighting conditions.
+
+**Remember to update the iot files with api and auth key**
