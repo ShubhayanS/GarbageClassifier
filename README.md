@@ -31,7 +31,7 @@ In the near future, we could also make a larger model which could manage massive
 
 2)cd tensorflow-for-poets-2
 
-3)Place your images category folders in tf-files/Dataset
+3)Place all your jpg or png images category folders in tf-files/Dataset
 
 4)Go to the folder tensorflow for poets using cmd and paste either of the mobinet or inception (any of the first two codes) in the cmd
 
