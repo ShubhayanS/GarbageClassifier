@@ -2,8 +2,8 @@ import pyrebase
 import os
 
 config = {
-  "apiKey": "AIzaSyD3Zbqnk8e4xXsubLfobhBhQJ2dl3pLy-k",
-  "authDomain": "smart-dustbin-e369d.firebaseapp.com",
+  "apiKey": "",
+  "authDomain": "",
   "databaseURL": "https://smart-dustbin-e369d.firebaseio.com/",
   "storageBucket":""
 }
