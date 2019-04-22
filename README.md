@@ -24,4 +24,29 @@ In the near future, we could also make a larger model which could manage massive
 -Mixed waste cannot be classified efficiently upto a certain extent.
 -In order to classify the waste efficiently, the waste should be scanned in ample lighting conditions.
 
-**Remember to update the iot files with api and auth key**
+**Remember to update the iot files with api and auth key.**
+
+**To train the image classifier with your own model**
+1)git clone https://github.com/googlecodelabs/tensorflow-for-poets-2
+
+2)cd tensorflow-for-poets-2
+
+3)Place your images category folders in tf-files/Dataset
+
+4)Go to the folder tensorflow for poets using cmd and paste either of the mobinet or inception (any of the first two codes) in the cmd
+
+5)After couple of hours to minutes depending on the pc, the model is trained.
+
+6)Get some testing images and place it in tf-files and make a folder named test.
+
+7)Now paste either of last two commands from my script.txt file in git depending on mobinet or inception training model you used.
+**Remember to update the last part of the testing command to the directory where your training data images are saved**
+
+**To use my pretrained garbage image classifier with your own images**
+
+1)Clone the current repository.
+
+2)Repeat step 2 , 6 and 7
+
+
+Any issues or queries mail me at shubhayan1998@gmail.com
