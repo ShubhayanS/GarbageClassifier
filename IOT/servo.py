@@ -5,8 +5,8 @@ import time
 import sys
 
 #config = {
-#  "apiKey": "AIzaSyD3Zbqnk8e4xXsubLfobhBhQJ2dl3pLy-k",
-#  "authDomain": "smart-dustbin-e369d.firebaseapp.com",
+#  "apiKey": "",
+#  "authDomain": "",
 #  "databaseURL": "https://smart-dustbin-e369d.firebaseio.com/",
 #  "storageBucket":""
 #}
@@ -44,3 +44,6 @@ try:
 except KeyboardInterrupt:
 	p.stop()
 	GPIO.cleanup()
+×
+Drag and Drop
+The image will be downloaded by Fatkun
