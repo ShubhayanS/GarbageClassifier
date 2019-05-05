@@ -8,6 +8,9 @@ To efficiently automate the segregation of waste based on its type, i.e. biodegr
 TrashIt! is a waste management and disposal solution which is our eager initiative in order to ensure a cleaner and greener campus. It employs technology of Machine learning, IOT and an android app (frontend) to provide an easy waste disposal solution and show real time analytics for each trash bin nearby an area.  
 TrashIt! Is a smart can which can classify biodegradable and non-biodegradable waste on it own and place that waste in different bins. The data collected during the trashing process is synchronized with an app interface to show relevant details of each dustbin and thereby sending a notification to the authorities whenever it gets filled.
 
+**Methodology:**  
+![methodology](method.png)
+
 **Need for the project:**  
 Intelligent classification for recycling and disposal of waste around the university campus. It also depicts SRM's initiative towards Swachh Bharat Abhiyan.
 
